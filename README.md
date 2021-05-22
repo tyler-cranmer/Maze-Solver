@@ -9,4 +9,4 @@ Given an image, we will view it as a graph where each pixel of the image is a ve
 
 Given a source pixel  (𝑖0,𝑗0)  and destination pixel,  (𝑖1,𝑗1) , we wish find the shortest weight path from source to destination.
 
-We will use opencv library, a popular computer vision library to load, and manipulate images of mazes.
+We will use opencv library, a computer vision library to load, and manipulate images of mazes.
